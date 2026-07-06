@@ -2,13 +2,14 @@
 
 A real-time object counting system using an IR obstacle sensor and a 16x2 I2C LCD display. Built during my internship at Vi Microsystems, this project detects object presence via an LM393-based IR sensor and displays a live count on the LCD.
 
-## Demo
+## Demo Video
 
-![Demo](https://youtu.be/1HBjkHqM49g)
+[Watch the Demo](https://youtu.be/1HBjkHqM49g)
 
 ## Hardware image
 
 ![Hardware image](images/pir1.jpeg)
+
 ![Hardware image](images/pir2.jpeg)
 
 ## Hardware Used
