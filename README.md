@@ -6,6 +6,11 @@ A real-time object counting system using an IR obstacle sensor and a 16x2 I2C LC
 
 ![Demo](https://youtu.be/1HBjkHqM49g)
 
+## Hardware image
+
+![Hardware image](images/pir1.png)
+![Hardware image](images/pir2.png)
+
 ## Hardware Used
 
 - Arduino 
