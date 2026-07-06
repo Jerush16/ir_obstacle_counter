@@ -17,7 +17,7 @@ A real-time object counting system using an IR obstacle sensor and a 16x2 I2C LC
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit/wiring_diagram.png)
+![Circuit Diagram](Circuit_diagram.png)
 
 |   Component   |  Arduino Pin  |
 |---------------|---------------|
