@@ -4,7 +4,7 @@ A real-time object counting system using an IR obstacle sensor and a 16x2 I2C LC
 
 ## Demo Video
 
-[Watch the Demo](https://youtu.be/1HBjkHqM49g)
+[🎥 Watch Demo Video](https://youtu.be/1HBjkHqM49g)
 
 ## Hardware image
 
